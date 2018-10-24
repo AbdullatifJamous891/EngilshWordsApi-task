@@ -1,0 +1,28 @@
+h1{
+    margin-left: 5%;
+    margin-top: 5%;
+    color: aliceblue;
+    font-style: italic;
+}
+
+input[type=text],textarea {
+    border: 2px solid red;
+    border-radius: 4px;
+    padding-left: 20px;
+}
+.hi{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+button {
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    border: 2px solid red;
+    background-color: aliceblue;
+    margin-left: 1%;
+}
+
+button:hover {
+    background-color:red; 
+    color: white;  
+}
